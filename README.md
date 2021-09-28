@@ -1,2 +1,3 @@
 # hello-world
-new 1
+new new new new console.log()
+
